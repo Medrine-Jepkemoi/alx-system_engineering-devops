@@ -1,0 +1,14 @@
+total 17
+drwxr-xr-x 1 jepke 197609   0 Mar  7 20:16 ./
+drwxr-xr-x 1 jepke 197609   0 Mar  7 17:16 ../
+-rwxr-xr-x 1 jepke 197609  43 Mar  7 17:53 0-hello_world*
+-rwxr-xr-x 1 jepke 197609  30 Mar  7 17:50 1-confused_smiley*
+-rwxr-xr-x 1 jepke 197609  30 Mar  7 18:19 2-hellofile*
+-rwxr-xr-x 1 jepke 197609  41 Mar  7 18:50 3-twofiles*
+-rwxr-xr-x 1 jepke 197609  35 Mar  7 19:07 4-lastlines*
+-rwxr-xr-x 1 jepke 197609  35 Mar  7 19:20 5-firstlines*
+-rwxr-xr-x 1 jepke 197609  38 Mar  7 19:39 6-third_line*
+-rwxr-xr-x 1 jepke 197609  88 Mar  7 20:00 7-file*
+-rw-r--r-- 1 jepke 197609   0 Mar  7 19:27 iacta
+-rw-r--r-- 1 jepke 197609   0 Mar  7 20:17 ls_cwd_content
+-rw-r--r-- 1 jepke 197609 574 Mar  7 19:53 README.md
