@@ -6,3 +6,4 @@ Script that counts the number of directories in the PATH
 Script that lists environment variables
 Script that lists all local variables and environment variables, and functions
 Script that creates a new local variable
+Script that creates a new global variable
